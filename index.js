@@ -18,3 +18,7 @@ function divide(a,b){
   number=a/b;
   return number;
 }
+var number;
+function increment(1){
+  number
+}

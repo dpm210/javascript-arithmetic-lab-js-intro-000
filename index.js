@@ -19,6 +19,6 @@ function divide(a,b){
   return number;
 }
 var number;
-function increment(1){
+function inc(a){
   number
 }

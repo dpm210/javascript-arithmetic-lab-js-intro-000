@@ -20,5 +20,6 @@ function divide(a,b){
 }
 var number;
 function inc(a){
-  number
+  number=a+1;
+  return number;
 }
